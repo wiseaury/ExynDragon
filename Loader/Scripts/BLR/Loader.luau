@@ -1,3 +1,4 @@
+repeat task.wait(1) until game:isLoaded()
 
 local http = http and http.request or http_request or syn and syn.request
 assert(http, "your exploit does not support httprequests")
