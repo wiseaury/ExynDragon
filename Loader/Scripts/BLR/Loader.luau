@@ -11,7 +11,7 @@ local response = http({
 
 assert(response and response.Body, "failed to fetch script")
 
--- run the fetched Lua code
+-- fetching response body
 local run = loadstring(response.Body)
 assert(run, "failed to pass script")
 run()
