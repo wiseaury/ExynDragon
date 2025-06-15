@@ -1,0 +1,23 @@
+return {
+	"Lightning",
+	"Puzzle",
+	"Ice",
+	"Gale Burst",
+	"Genius",
+	"Buddha's Blessing",
+	"Monster",
+	"King's Instinct",
+	"Crow",
+	"Chameleon",
+	"Demon Wings",
+	"Wild Card",
+	"Trap",
+	"Snake",
+	"Dribbler",
+	"Bee Freestyle",
+	"Awakened Genius",
+	"Emperor",
+	"Soul Harvester",
+	"Destructive Impulses",
+  "Godspeed"
+}
