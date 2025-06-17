@@ -7,19 +7,12 @@ return {
     },
     
 
-    ["owner_hwid_1"] = {
+    ["cc2750f95129d482cde4e2e1a02270b16ae5a2d9af6008333bd4eda0d82ab319"] = {
         rank = "Owner",
         color = Color3.fromRGB(255, 0, 0) 
     },
-    ["owner_hwid_2"] = {
-        rank = "Owner", 
-        color = Color3.fromRGB(255, 0, 0)
-    },
-    ["supporter_hwid_1"] = {
-        rank = "Exyn Supporter",
-        color = Color3.fromRGB(255, 165, 0)
-    },
-    ["supporter_hwid_2"] = {
+    
+    ["placeholer"] = {
         rank = "Exyn Supporter",
         color = Color3.fromRGB(255, 165, 0)
     }
