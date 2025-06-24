@@ -1,1 +1,1 @@
-return "v2.5", true, "Maintenance!"
+return "v2.6", true, "Maintenance!"
