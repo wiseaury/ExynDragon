@@ -8,7 +8,7 @@ return {
 	"Otoya",
 	"Bachira",
 	"Nagi",
-	"Reo",
+	"NEL Reo",
 	"Karasu",
 	"Shidou",
 	"Yukimiya",
