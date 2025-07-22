@@ -18,8 +18,9 @@ return {
 	"Aiku",
 	"Sae",
 	"NEL Isagi",
+        "NEL Nagi",
 	"Kaiser",
-	"Don Lorenzo",
-  "NEL Rin",
-  "Loki"
+  	"Don Lorenzo",
+        "NEL Rin",
+        "Loki",
 }
